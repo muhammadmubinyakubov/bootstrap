@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/bootstrap-5.3.2-dist"
+		},
+		{
+			"path": "../../Downloads/bootstrap-offline-docs-5.3"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,126 @@
+.navbar-brand img{
+    width: 50px;}
+ 
+.menyu{
+  background-color: white;
+}
+
+    .navbar-nav li a{
+        border-bottom: 5px solid white;
+    }
+.tanaqismi{
+  background-color: #E4E9FB;
+}
+  .navbar-nav li .nav-link:hover {
+border-bottom: 5px solid red;
+transition: 2s;
+    }
+.blue{
+  color: blue;
+}
+
+#link1 a{
+  color:#E4E9FB;
+  background-color: green;
+  font-size: 20px;
+
+}
+#link1 a:hover{
+  color: green;
+  background-color: #E4E9FB;
+  border:1px solid green;
+}
+#link2 a{
+  color: purple;
+  background-color:#E4E9FB;
+  border:1px solid purple;
+  font-size: 20px;
+}
+#link2 a:hover{
+  background-color: purple;
+  color: #E4E9FB;
+}
+#text3{
+  margin-top: 150px;
+}
+#text3 ,h1{
+  font-size: 50px;
+}
+#link2{
+  margin-left: 20px;
+}
+#text3 p{
+  font-size: 20px;
+}
+#block3{
+  margin-top: 150px;
+}
+#block4{
+  margin-top: 100px;
+}
+#block4 img{
+ width: 100vh;
+}
+#block42{
+  margin-top: 100px;
+ 
+}
+#block42 h1{
+  margin-bottom: 20px;
+}
+  
+#block3 i{
+  font-size: 25px;
+  background-image: linear-gradient(purple , blue);
+color: white;
+padding: 20px;
+border-radius: 20px;
+
+
+}
+.col-4{
+  padding: 10px;
+border-radius: 20px;
+transition: 2s;
+
+}
+
+
+.col-4  :hover{
+  color: white;
+
+  background-image: linear-gradient(purple , blue);
+} 
+ 
+#row{
+  width: 100%;
+  height: 80vh;
+  color: white;
+  border-radius: 20px;
+  background-image: linear-gradient(purple , rgb(45, 45, 243));
+ 
+}
+#row i{
+  color: red;
+}
+#col6{
+ margin-top: 40px;
+margin-left: 40px;
+ 
+}
+#rasm{
+  margin-top: 20vh;
+  height: 80vh;
+  width: 40%;
+  margin-left: 5vh;
+ 
+}
+#rasm img{
+  border-radius:50%;
+  height: 15vh;
+
+}
+#rasm h3 , p{
+  margin: 40px;
+}
+
